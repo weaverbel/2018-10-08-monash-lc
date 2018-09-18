@@ -199,9 +199,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <table class="table table-striped">
       <tr> <td>09:30</td>  <td>Q & A session (Matheson: Teaching Room 3)</td> </tr>
       <tr> <td>10:30</td> <td>Break</td> </tr>
-      <tr> <td>11:00</td> <td>Intro to Data Matheson: Teaching Room 2</td> </tr>
+      <tr> <td>11:00</td> <td>Intro to Data (Matheson: Teaching Room 2)</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>12:30</td>  <td>Introducing the shell( Matheson: Teaching Room 2</td> </tr>
+      <tr> <td>12:30</td>  <td>Introducing the shell (Matheson: Teaching Room 2)</td> </tr>
       <tr> <td>15:00</td>  <td>Break</td> </tr>
       <tr> <td>15:15</td>  <td>OpenRefine for data cleanup (Matheson: Teaching Room 2)</td> </tr>
       <tr> <td>17:00</td>  <td>Close</td> </tr>
