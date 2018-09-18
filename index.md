@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Monash University Library"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Clayton Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Matheson Library Teaching Room 2, Clayton Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "-37.910480, 145.137217"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "8 October, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-10-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -197,13 +197,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <div class="col-md-6">
     <h3>Monday, 8 October, 2018</h3>
     <table class="table table-striped">
-      <tr> <td>09:30</td>  <td>Q & A session</td> </tr>
+      <tr> <td>09:30</td>  <td>Q & A session (Matheson: Teaching Room 3)</td> </tr>
       <tr> <td>10:30</td> <td>Break</td> </tr>
-      <tr> <td>11:00</td> <td>Intro to Data</td> </tr>
+      <tr> <td>11:00</td> <td>Intro to Data Matheson: Teaching Room 2</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>12:30</td>  <td>Introducing the shell</td> </tr>
+      <tr> <td>12:30</td>  <td>Introducing the shell( Matheson: Teaching Room 2</td> </tr>
       <tr> <td>15:00</td>  <td>Break</td> </tr>
-      <tr> <td>15:15</td>  <td>OpenRefine for data cleanup</td> </tr>
+      <tr> <td>15:15</td>  <td>OpenRefine for data cleanup (Matheson: Teaching Room 2)</td> </tr>
       <tr> <td>17:00</td>  <td>Close</td> </tr>
     </table>
   </div>
